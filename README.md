@@ -1,1 +1,1 @@
-# Animal catogories with respect to their eating habits
+# Animal catogories with respect to their eating habits.
